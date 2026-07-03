@@ -8,5 +8,3 @@ scikit-learn
 scipy
 openpyxl
 xgboost
-sweetviz
-ydata-profiling
