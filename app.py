@@ -109,8 +109,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-import sweetviz as sv
-from ydata_profiling import ProfileReport
+
 
 # Display settings
 pd.set_option('display.max_columns', None)
