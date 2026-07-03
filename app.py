@@ -97,7 +97,7 @@ Ensure that all code cells are fully executable in Google Colab and include expl
 # Install required libraries (Google Colab)
 # ------------------------------------------------------------
 
-!pip install xgboost sweetviz ydata-profiling --quiet
+pip install xgboost sweetviz ydata-profiling --quiet
 
 # ------------------------------------------------------------
 # Import libraries
